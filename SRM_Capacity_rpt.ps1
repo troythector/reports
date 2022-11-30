@@ -16,7 +16,6 @@ SRM Storage Capacity Report - $((Get-Date).ToString('dddd, dd MMM yyyy HH:mm'))
 
 "@
 
-
 $Report = "~\SRM_Storage_Capacity_Report_$((Get-Date).ToString('yyyy-MM-dd')).xlsx"
 
 # ****************************************************************************
